@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+h1{
+    
+}
+
+header{
+    position: relative;
+    right: 0;
+    left: 0;
+    display: inline;
+}
+
+header p{
+    display: inline-block;
+    right: 0;
+    left: 0;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+article{
+    margin-top: 100px;
+}
